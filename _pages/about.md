@@ -87,7 +87,7 @@ redirect_from:
 
 # 💬 Talk and Contact
 - *2024.11*, video:["我们把小车题做到了极致！3年电赛，冲刺最高奖！"](https://www.bilibili.com/video/BV1UJzgY7E3s/?vd_source=cc6e1299ec907ed5efddd8a4591377e3). 
-- *2025.05*, Talk:["志远笃行，攻坚克难——励志成为卓越的工程师(山东大学威海校区推文)"](https://mp.weixin.qq.com/s/6r0P3yXkhDmAeeeBova38A).
+- *2025.05*, Talk:["志远笃行，攻坚克难——励志成为卓越的工程师(山东大学推文)"](https://mp.weixin.qq.com/s/6r0P3yXkhDmAeeeBova38A).
 - *Email:* [lizhijian25@mails.ucas.ac.cn](lizhijian25@mails.ucas.ac.cn)
 - *github:* [ZhijianLi2003](https://github.com/ZhijianLi2003)
 - *gitee:* [warrior_Li](https://gitee.com/warrior_Li)
