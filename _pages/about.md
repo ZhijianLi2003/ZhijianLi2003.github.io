@@ -22,9 +22,10 @@ redirect_from:
  &nbsp; &nbsp; I'm **Zhijian Li**, a graduate from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral research at the Key Laboratory of Target Cognition and Application Technology,  [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
 
 &nbsp; &nbsp;My main research interests include:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **World Models for Space Robotic Learning**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Remote Sensing Image Interpretation**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Agentic AI in Remote Sensing**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- World Models for Space Robot Learning  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Remote Sensing Image Interpretation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Agentic AI in Remote Sensing
 ​				 
 
 
@@ -77,7 +78,7 @@ redirect_from:
 
 
 
-- [First Prize of 2024 Provincial Undergraduate Electronic Design Competition](https://zhijianli2003.github.io/images/2024H.jpg) (We are invited by Texas Instruments and recorded the video.), **Zhijian Li**, Haoran Chen, Tianyu Zhou,  &nbsp;2024.08,&nbsp;Shandong,&nbsp;China &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/ZhijianLi2003/ZLC_MSPM0_Peripheral_Library)[![](https://img.shields.io/badge/Bilibili-Video-pink?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1UJzgY7E3s/)
+- [First Prize of 2024 Provincial Undergraduate Electronic Design Competition](https://zhijianli2003.github.io/images/2024H.jpg) (We are invited by Texas Instruments and recorded the video.), **Zhijian Li**, Haoran Chen, Tianyu Zhou,  &nbsp;2024.08,&nbsp;Shandong,&nbsp;China &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/ZhijianLi2003/ZLC_MSPM0_Peripheral_Library) [![](https://img.shields.io/badge/Bilibili-Video-yellow?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1UJzgY7E3s/)
 - [First Prize of 18th National University Student Smart Car Competition(5G Autonomous Driving Group, National runner-up🥈)](https://zhijianli2003.github.io/images/first_prize.png), **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu, &nbsp;2023.12,&nbsp;Chongqing,&nbsp;China
 
 # 📖 Educations and Work experience
