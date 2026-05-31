@@ -43,12 +43,6 @@ redirect_from:
   <!--*2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院夏令营“优秀营员（高端芯片方向）”称号 -->
 
 
-# 🏅 Honors and Awards
-- *2025.05* Outstanding thesis(bachelor's degree) of Shandong University(Top 2%)
-- *2024.12* President's Award of Shandong University ([the highest undergraduate award of Shandong University](https://zhijianli2003.github.io/images/president_award.jpg))
-- *2024.10* "ZhanTianYou" Scholarship, ZhanTianYou Development Foundation of Science and Technology ([39 undergraduate students in China](https://zhijianli2003.github.io/images/2024_ZhanTianYou_Scholarship.pdf))
-- *2024.12* National Scholarship for Undergraduate Student in 2022, 2023 and 2024([Top 1%](https://zhijianli2003.github.io/images/national_scholarship.jpg))
-- *2024.05* Excellent University Student of Shandong Province.([certificate](https://zhijianli2003.github.io/images/shandong_excellent.jpg))
 
 # 📝 Publications 
 - waiting for hard working🏃‍♂️ ......
@@ -84,6 +78,15 @@ redirect_from:
 # 📖 Educations and Work experience
 - ***2025.09 - now***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
 - ***2021.09 - 2025.06***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial, Electrical and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
+
+
+# 🏅 Honors and Awards
+- *2025.05* Outstanding thesis(bachelor's degree) of Shandong University(Top 2%)
+- *2024.12* President's Award of Shandong University ([the highest undergraduate award of Shandong University](https://zhijianli2003.github.io/images/president_award.jpg))
+- *2024.10* "ZhanTianYou" Scholarship, ZhanTianYou Development Foundation of Science and Technology ([39 undergraduate students in China](https://zhijianli2003.github.io/images/2024_ZhanTianYou_Scholarship.pdf))
+- *2024.12* National Scholarship for Undergraduate Student in 2022, 2023 and 2024([Top 1%](https://zhijianli2003.github.io/images/national_scholarship.jpg))
+- *2024.05* Excellent University Student of Shandong Province.([certificate](https://zhijianli2003.github.io/images/shandong_excellent.jpg))
+
 
 # 💬 Talk and Contact
 - *2024.11*, video:["我们把小车题做到了极致！3年电赛，冲刺最高奖！"](https://www.bilibili.com/video/BV1UJzgY7E3s/?vd_source=cc6e1299ec907ed5efddd8a4591377e3). 
