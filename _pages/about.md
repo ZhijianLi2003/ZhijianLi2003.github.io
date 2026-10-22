@@ -30,6 +30,8 @@ redirect_from:
 
 
 # 🔥 News
+- 2026.10: &nbsp;🎉🎉 [Orbit-Planner](https://github.com/ZhijianLi2003/Orbit_Planner) received the **"Best Oral Presentation Award"** at IEEE AP-GARSS 2026.
+
 - 2026.08: &nbsp;🎉🎉 One Paper was accepted by AP-GARSS 2026. This marks my first research paper accepted for publication.
 
 - *2025.05*: &nbsp;🎉🎉 通过学士学位论文答辩，获得"山东大学优秀本科毕设论文"称号
@@ -40,7 +42,7 @@ redirect_from:
 
   <!--*2024.10*: &nbsp;🎉🎉 顺利通过学校答辩，获得本科生“詹天佑”奖学金-->
 
-  <!--*2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，连续三年蝉联本科生国家奖学金-->
+  <!--*2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，获得本科生国家奖学金-->
 
   <!--*2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院夏令营“优秀营员（高端芯片方向）”称号 -->
 
@@ -50,7 +52,7 @@ redirect_from:
 <div class="paper-box publication-card">
   <div class="paper-box-image">
     <div class="publication-thumbnail">
-      <span class="badge">AP-GARSS 2026</span>
+      <span class="badge">AP-GARSS 2026 ● Best Oral Presentation Award</span>
       <img src="{{ '/assets/paper_abstract/Orbit_Planner.png' | relative_url }}" alt="Overview of the Orbit-Planner framework">
     </div>
   </div>
@@ -70,6 +72,7 @@ redirect_from:
     </div>
   </div>
 </div>
+
 
 <script>
 document.querySelectorAll('.publication-button[aria-controls]').forEach(function (button) {
@@ -117,6 +120,7 @@ document.querySelectorAll('.publication-button[aria-controls]').forEach(function
 
 
 # 🏅 Honors and Awards
+- 2026.10 Best Oral Presentation Award, IEEE AP-GARSS 2026.
 - *2025.05* Outstanding thesis(bachelor's degree) of Shandong University(Top 2%)
 - *2024.12* President's Award of Shandong University ([the highest undergraduate award of Shandong University](https://zhijianli2003.github.io/images/president_award.jpg))
 - *2024.10* "ZhanTianYou" Scholarship, ZhanTianYou Development Foundation of Science and Technology ([39 undergraduate students in China](https://zhijianli2003.github.io/images/2024_ZhanTianYou_Scholarship.pdf))
