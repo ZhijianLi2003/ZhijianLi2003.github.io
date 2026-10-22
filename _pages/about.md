@@ -52,7 +52,7 @@ redirect_from:
 <div class="paper-box publication-card">
   <div class="paper-box-image">
     <div class="publication-thumbnail">
-      <span class="badge">AP-GARSS 2026 ● Best Oral Presentation Award</span>
+      <span class="badge">Best Oral Presentation Award</span>
       <img src="{{ '/assets/paper_abstract/Orbit_Planner.png' | relative_url }}" alt="Overview of the Orbit-Planner framework">
     </div>
   </div>
@@ -72,6 +72,7 @@ redirect_from:
     </div>
   </div>
 </div>
+
 
 
 <script>
