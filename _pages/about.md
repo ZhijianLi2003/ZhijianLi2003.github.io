@@ -44,7 +44,7 @@ redirect_from:
 
   <!--*2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，获得本科生国家奖学金-->
 
-  <!--*2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院夏令营“优秀营员（高端芯片方向）”称号 -->
+  <!--*2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院夏令营“优秀营员”称号 -->
 
 
 
@@ -121,7 +121,7 @@ document.querySelectorAll('.publication-button[aria-controls]').forEach(function
 
 
 # 🏅 Honors and Awards
-- 2026.10 Best Oral Presentation Award, IEEE AP-GARSS 2026.
+- 2026.10 Best Oral Presentation Award, IEEE AP-GARSS 2026.([certificate](https://zhijianli2003.github.io/images/AP-GARSS2026.jpg))
 - *2025.05* Outstanding thesis(bachelor's degree) of Shandong University(Top 2%)
 - *2024.12* President's Award of Shandong University ([the highest undergraduate award of Shandong University](https://zhijianli2003.github.io/images/president_award.jpg))
 - *2024.10* "ZhanTianYou" Scholarship, ZhanTianYou Development Foundation of Science and Technology ([39 undergraduate students in China](https://zhijianli2003.github.io/images/2024_ZhanTianYou_Scholarship.pdf))
